@@ -1,4 +1,4 @@
-<h1>Calculator for Louies Lawn Care service</h1>
+<h1>Calculator</h1>
 
 <h2>Description</h2>
 This program demonstrates the use of Variables and simple arithmetic to create a calculator for Louie's Lawncare and Tree Trimming service. 
