@@ -13,18 +13,13 @@ This program demonstrates the use of Variables and simple arithmetic to create a
 <img src="https://i.imgur.com/a9r7PN2.png" height="80%" width="80%" alt="Disk Sanitization Steps]"/>
 
 
-<p align="center">
-<b> Code:</br>
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Web.Services.Description;
-
-namespace Program1
-{
+    Code:
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;using System.Text;
+    using System.Threading.Tasks;using System.Web.Services.Description;
+    namespace Program1{
     class Program
     {
         static void Main(string[] args)
