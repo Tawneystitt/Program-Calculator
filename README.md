@@ -10,7 +10,7 @@ This program demonstrates the use of Variables and simple arithmetic to create a
 - <b>Visual Studios</b> 
 
 
-<img src="https://i.imgur.com/a9r7PN2.png" height="80%" width="80%" alt="Disk Sanitization Steps]"/>
+<img src="https://i.imgur.com/a9r7PN2.png" height="80%" width="80%" alt="]"/>
 
 
 
